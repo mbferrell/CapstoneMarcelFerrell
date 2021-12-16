@@ -1,7 +1,6 @@
 package com.company.MarcelFerrellCapstone.dao;
 
-import com.company.MarcelFerrellCapstone.dao.ProcessingFeeDao;
-import com.company.MarcelFerrellCapstone.domain.ProcessingFee;
+import com.company.MarcelFerrellCapstone.model.ProcessingFee;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;

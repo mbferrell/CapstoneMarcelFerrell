@@ -1,6 +1,6 @@
 package com.company.MarcelFerrellCapstone.dao;
 
-import com.company.MarcelFerrellCapstone.domain.SalesTaxRate;
+import com.company.MarcelFerrellCapstone.model.SalesTaxRate;
 
 import java.math.BigDecimal;
 

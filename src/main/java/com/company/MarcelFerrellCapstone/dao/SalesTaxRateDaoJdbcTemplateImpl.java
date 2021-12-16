@@ -1,16 +1,13 @@
 package com.company.MarcelFerrellCapstone.dao;
 
-import com.company.MarcelFerrellCapstone.domain.SalesTaxRate;
+import com.company.MarcelFerrellCapstone.model.SalesTaxRate;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
-import org.springframework.transaction.annotation.Transactional;
 
 import java.math.BigDecimal;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.List;
 
 
 @Repository

@@ -1,6 +1,6 @@
 package com.company.MarcelFerrellCapstone.dao;
 
-import com.company.MarcelFerrellCapstone.domain.TShirt;
+import com.company.MarcelFerrellCapstone.model.TShirt;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

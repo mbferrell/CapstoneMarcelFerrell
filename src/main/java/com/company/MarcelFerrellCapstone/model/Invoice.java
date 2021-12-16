@@ -1,4 +1,4 @@
-package com.company.MarcelFerrellCapstone.domain;
+package com.company.MarcelFerrellCapstone.model;
 
 import java.math.BigDecimal;
 

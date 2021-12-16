@@ -1,6 +1,6 @@
 package com.company.MarcelFerrellCapstone.dao;
 
-import com.company.MarcelFerrellCapstone.domain.Invoice;
+import com.company.MarcelFerrellCapstone.model.Invoice;
 import java.util.List;
 
 

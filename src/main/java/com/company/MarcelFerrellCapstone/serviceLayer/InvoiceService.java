@@ -1,7 +1,7 @@
 package com.company.MarcelFerrellCapstone.serviceLayer;
 
 import com.company.MarcelFerrellCapstone.dao.*;
-import com.company.MarcelFerrellCapstone.domain.*;
+import com.company.MarcelFerrellCapstone.model.*;
 import com.company.MarcelFerrellCapstone.viewModel.InvoiceViewModel;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

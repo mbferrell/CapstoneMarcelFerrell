@@ -1,6 +1,6 @@
 package com.company.MarcelFerrellCapstone.dao;
 
-import com.company.MarcelFerrellCapstone.domain.Console;
+import com.company.MarcelFerrellCapstone.model.Console;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

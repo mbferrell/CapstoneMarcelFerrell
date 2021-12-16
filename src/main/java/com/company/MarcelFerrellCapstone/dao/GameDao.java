@@ -1,6 +1,6 @@
 package com.company.MarcelFerrellCapstone.dao;
 
-import com.company.MarcelFerrellCapstone.domain.Game;
+import com.company.MarcelFerrellCapstone.model.Game;
 
 import java.util.List;
 

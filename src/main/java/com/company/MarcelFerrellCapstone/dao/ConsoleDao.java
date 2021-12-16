@@ -1,6 +1,6 @@
 package com.company.MarcelFerrellCapstone.dao;
 
-import com.company.MarcelFerrellCapstone.domain.Console;
+import com.company.MarcelFerrellCapstone.model.Console;
 
 import java.util.List;
 
